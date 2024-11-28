@@ -23,7 +23,7 @@ Este portfólio foi desenvolvido utilizando HTML, CSS e JavaScript. O site tem c
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/portfolio.git
+    git clone https://github.com/Ramsescfe/Portfolio.git
     ```
 
 2. Abra a pasta do repositório no seu editor de código preferido.
