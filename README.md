@@ -1,32 +1,42 @@
 # Portfolio - Ramsés Cordeiro
 
-Bem-vindo ao meu portfólio! Aqui você pode conhecer um dos meus projetos desenvolvidos.
+Bem-vindo ao meu portfólio! Aqui você encontrará um site pessoal que apresenta meus projetos, habilidades e interesses na área de tecnologia, incluindo **Inteligência Artificial** e **Desenvolvimento de Jogos**.
 
-## Projeto
+## Sobre
 
-### 🚮 **Monstro do Lixo**
+Este portfólio foi desenvolvido utilizando HTML, CSS e JavaScript. O site tem como objetivo mostrar alguns dos meus projetos e compartilhar um pouco mais sobre mim.
 
-O **Monstro do Lixo** é um projeto interativo desenvolvido com **Arduino** para ensinar crianças sobre o descarte correto de lixo. Ele utiliza sensores para detectar o lixo e emite sons interativos, tudo dentro de uma estrutura visual divertida e não invasiva.
+### Seções do Portfólio:
+- **Início**: Apresentação e introdução.
+- **Sobre**: Informações sobre minha formação e áreas de interesse.
+- **Projetos**: Destaque para os principais projetos que desenvolvi, com detalhes sobre as tecnologias utilizadas.
 
-**Tecnologias utilizadas:**
-- Arduino
-- Sensores
-- Programação embarcada
+## Tecnologias Utilizadas
 
-## Como Executar o Projeto
+- HTML
+- CSS
+- JavaScript (para interações dinâmicas, se aplicável)
+- Fontes do Google: **Poppins**
+- Gradientes CSS para fundo e cores
+
+## Como Visualizar o Portfolio
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/monstro-do-lixo.git
+    git clone https://github.com/seu-usuario/portfolio.git
     ```
 
-2. Abra o projeto no seu editor de código preferido.
+2. Abra a pasta do repositório no seu editor de código preferido.
 
-3. Para rodar o **Monstro do Lixo**, será necessário configurar o ambiente do Arduino e conectar os sensores.
+3. Para visualizar o site, basta abrir o arquivo `index.html` em um navegador de sua preferência.
 
-## Contato
+## Links
 
-- **Email**: rcfe@cesar.school
 - **LinkedIn**: www.linkedin.com/in/ramsés-cordeiro-ba410033b
 
 
+- **Email**: rcfe@cesar.school
+
+## Agradecimentos
+
+Obrigado por visitar meu portfólio! Fique à vontade para explorar e entrar em contato.
